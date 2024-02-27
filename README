@@ -30,7 +30,7 @@ EXAMPLE2
      ismn-format M260002333
 
      # Output:
-     # TODO
+     # M260002333 -> M-2600-0233-3
 
 REPOSITORY
     <https://github.com/michal-josef-spacek/App-ISMN-Format>

@@ -64,7 +64,7 @@ ISMN number string.
  ismn-format M260002333
 
  # Output:
- # TODO
+ # M260002333 -> M-2600-0233-3
 
 =head1 REPOSITORY
 
