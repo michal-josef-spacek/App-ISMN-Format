@@ -1,0 +1,50 @@
+NAME
+    ismn-format - Tool to format ISMN.
+
+SYNOPSIS
+     ismn-format [-h] [--version] ismn_string
+
+DESCRIPTION
+    TODO
+
+ARGUMENTS
+    *       "-h"
+
+            Print help.
+
+    *       "--version"
+
+            Print version of script.
+
+    *       "ismn_string"
+
+            ISMN number string.
+
+EXAMPLE1
+     ismn-format 9790660556481
+
+     # Output:
+     # TODO
+
+EXAMPLE2
+     ismn-format M260002333
+
+     # Output:
+     # TODO
+
+REPOSITORY
+    <https://github.com/michal-josef-spacek/App-ISMN-Format>
+
+AUTHOR
+    Michal Josef Špaček <mailto:skim@cpan.org>
+
+    <http://skim.cz>
+
+LICENSE AND COPYRIGHT
+    © 2024 Michal Josef Špaček
+
+    BSD 2-Clause License
+
+VERSION
+    0.01
+
